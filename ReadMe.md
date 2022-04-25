@@ -3,7 +3,7 @@ This contract is useful for Shared Taxi Business on Blockchain technology with E
 This code is running on Remix(https://remix.ethereum.org/).
 
 # OWNER
-Furkan Karadeli
+Mehmet Kara
 
 
 # USAGE
